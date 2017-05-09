@@ -1,0 +1,37 @@
+*{
+  box-sizing: border-box;
+}
+
+
+body{
+  background-color: coral;
+  width: 1200px;
+}
+
+.content{
+  width:1000px;
+  background-color: white;
+  margin: auto;
+    text-align: center;
+}
+
+
+.nav{
+  width: 150px;
+  margin: auto;
+
+}
+
+.nav .left {
+  padding-right: 30px;
+}
+
+.nav .right {
+
+}
+
+
+.col{
+  text-align: center;
+
+}
