@@ -1,0 +1,67 @@
+*{
+  box-sizing: border-box;
+}
+
+
+body{
+  margin: auto;
+  background-color: white;
+
+}
+
+.content {
+
+  background-color: coral;
+    text-align: center;
+    font-family: arial;
+    padding: 10px;
+}
+
+.contentparagraph {
+  width:900px;
+  background-color: white;
+  margin: auto;
+    text-align: left;
+    font-family: arial;
+}
+
+.imageparagaph{
+  margin: auto;
+  text-align: center;
+   width: 50%;
+}
+
+img{
+  width: 100%;
+  text-align: center;
+}
+
+.quote{
+  width:700px;
+  background-color: white;
+  margin: auto;
+    text-align: center;
+    font-family: arial;
+}
+
+
+.nav{
+  width: 150px;
+  margin: auto;
+padding-top: 20px;
+padding-bottom: 30px;
+}
+
+.nav .left {
+  padding-right: 30px;
+}
+
+.nav .right {
+
+}
+
+
+.col{
+  text-align: center;
+
+}
